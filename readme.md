@@ -1,7 +1,7 @@
 # webretro
 [RetroArch](https://github.com/libretro) ported to WebAssembly with [emscripten](https://emscripten.org/)!
 
-This is a fork. You can find the Official Instance below:
+This is a fork. You can find the Official Instance here:
 [**Official Instance**](https://binbashbanana.github.io/webretro/)
 
 ### Latest version: v6.5
