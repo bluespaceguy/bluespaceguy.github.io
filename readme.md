@@ -1,6 +1,7 @@
 # webretro
 [RetroArch](https://github.com/libretro) ported to WebAssembly with [emscripten](https://emscripten.org/)!
 
+This is a fork. You can find the Official Instance below:
 [**Official Instance**](https://binbashbanana.github.io/webretro/)
 
 ### Latest version: v6.5
@@ -79,7 +80,7 @@ Example OK query uris:
 
 ## Embedding
 
-You can easily embed webretro on your site by using the api provided in `embed/embed.js`. You can see an example of it [here](https://binbashbanana.github.io/webretro/embed/embed-example.html).
+You can easily embed webretro on your site by using the api provided in `embed/embed.js`. You can see an example of it [here](https://bluespaceguy.github.io/webretro/embed/embed-example.html).
 
 How to use: `webretroEmbed(domNodeToAppendTo, webretroPath, queries)` (returns the new iframe node that it creates)
 * `domNodeToAppendTo` - the element that you want webretro to load into.
